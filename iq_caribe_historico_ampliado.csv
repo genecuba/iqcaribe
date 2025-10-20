@@ -1,0 +1,35 @@
+pais_o_territorio,año,valor,escala,tipo,fuente_nombre,url,notas
+Anguila,2020,84.99,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Antigua y Barbuda,2020,84.28,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Bahamas,1987,93.0,IQ US=100 SD=15,Otis-Lennon (secundaria),HVGIQ: The Bahamas,https://humanvarieties.org/2013/03/12/hvgiq-the-bahamas/,Promedio ponderado Johnson 1988 (n=694) y Tynes-Jones 2005 (n=29)
+Bahamas,2022,86.09,ACHQ US=100,Star Assessments (ajustado por NAEP),HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Estimado a partir de umbral PR10=80.77 y pérdida de aprendizaje Covid
+Barbados,2016,90.83,IQ US=100 SD=15,NIQ (derivado de estudios Waber 2014/2018),HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Estimación nacional usando controles y sus hijos⋮ ver Tabla 2
+Barbados,2020,87.99,ACHQ US=100,CXCQ (promedio 2010–2024),HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,CXC resumido en Tabla 3⋮ usado como predictor de ACHQ
+Cuba,1961,89.0,IQ UK=100 SD=15,SPM estandarización 1961 (Camagüey),HVGIQ: Cuba,https://humanvarieties.org/2013/01/31/hvgiq-cuba/,Raven SPM⋮ IQ≈89 en normas UK 1979 con ajuste Flynn
+Cuba,2000,91.0,IQ UK=100 SD=15,SPM estandarización 2000 (muestra 11–68),HVGIQ: Cuba,https://humanvarieties.org/2013/01/31/hvgiq-cuba/,Raven SPM⋮ IQ≈91; promedio con 1961 ≈90
+Dominica,2020,83.8,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Granada,2020,82.44,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Guadalupe (Fr.),2013,87.1,IQ FR=100 SD=15,WISC-IV niños (TIMOUN),HVG-ACHQ: French Caribbean and Saint Pierre & Miquelon,https://humanvarieties.org/2025/03/20/hvg-achq-french-caribbean-and-saint-pierre-miquelon/,WISC-IV respecto a media francesa⋮ ~87.1
+Guadalupe (Fr.),2023,90.66,ACHQ FR→US=100,ACHQ promedio (Grado 6⋮10⋮ JDC),HVG-ACHQ: French Caribbean and Saint Pierre & Miquelon,https://humanvarieties.org/2025/03/20/hvg-achq-french-caribbean-and-saint-pierre-miquelon/,Promedio tres fuentes⋮ tabla 6
+Haití,1977,55.0,IQ US=100 SD=15,Cattell CFIT (8–13 años⋮ P-au-P),HVGIQ: Haiti,https://humanvarieties.org/2013/01/24/hvgiq-haiti/,Resumen de boletín 1977 citado en HVGIQ
+Haití,1981,64.0,IQ US=100 SD=15,Raven CPM (escolares⋮ programa alimentación),HVGIQ: Haiti,https://humanvarieties.org/2013/01/24/hvgiq-haiti/,Cotten 1985⋮ muestra 1⋮034 niños⋮ IQ≈64 tras ajuste Flynn
+Islas Caimán,1935,75.0,IQ US=100 SD=15,Raven CPM (escolares 8–12),HVGIQ: Cayman Islands,https://humanvarieties.org/2013/02/07/hvgiq-cayman-islands/,Estudio histórico anterior a modernización — ver discusión en HVGIQ
+Islas Caimán,2022,92.88,IQ-métrica US=100 SD=15,NIQ (CAT4 escolar),HVG-ACHQ: Cayman Islands,https://humanvarieties.org/2025/03/23/hvg-achq-cayman-islands/,Media ponderada por tamaño de cohorte⋮ años 2021–2023
+Islas Caimán,2023,89.37,ACHQ US=100,ACHQ (diversas fuentes educativas),HVG-ACHQ: Cayman Islands,https://humanvarieties.org/2025/03/23/hvg-achq-cayman-islands/,Valor adoptado por los autores tras combinar fuentes locales
+Islas Vírgenes Británicas,2020,91.15,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Islas Vírgenes de EE.UU.,1963,82.2,IQ US=100 SD=15,Wechsler/otros (estudio antiguo),HVGIQ: U.S. Virgin Islands,https://humanvarieties.org/2014/05/28/hvgiq-u-s-virgin-islands/,Basado mayormente en Rowe & Thorndike 1963
+Islas Vírgenes de EE.UU.,2019,89.36,ACHQ US=100,Smarter Balanced (2014–2023),HVG-ACHQ: Puerto Rico y U.S. Virgin Islands,https://humanvarieties.org/2025/03/19/hvgq-ach-puerto-rico-and-u-s-virgin-islands/,Media multi-año convertida a escala US=100
+Jamaica,1926,68.0,IQ US=100 SD=15,Draw-a-Man y Army Alpha (adultos y niños),HVGIQ: Jamaica,https://humanvarieties.org/2013/03/01/hvgiq-jamaica/,Promedio ponderado de dos pruebas⋮ HVGIQ Tabla 1
+Jamaica,1959,87.3,IQ UK=100 SD=15,Moray House (muestra escolástica),HVGIQ: Jamaica,https://humanvarieties.org/2013/03/01/hvgiq-jamaica/,Examen Common Entrance⋮ Manley 1963
+Martinica (Fr.),2023,91.63,ACHQ FR→US=100,ACHQ promedio (Grado 6⋮10⋮ JDC),HVG-ACHQ: French Caribbean and Saint Pierre & Miquelon,https://humanvarieties.org/2025/03/20/hvg-achq-french-caribbean-and-saint-pierre-miquelon/,Tabla 6
+Montserrat,2020,85.24,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Puerto Rico,2012,76.06,ACHQ US=100,NAEP (2011–2024 promedio),HVG-ACHQ: Puerto Rico y U.S. Virgin Islands,https://humanvarieties.org/2025/03/19/hvgq-ach-puerto-rico-and-u-s-virgin-islands/,Promedio en d transformado a escala US=100
+Puerto Rico,2015,85.64,ACHQ US=100,PISA 2015 (conversión),HVG-ACHQ: Puerto Rico y U.S. Virgin Islands,https://humanvarieties.org/2025/03/19/hvgq-ach-puerto-rico-and-u-s-virgin-islands/,Conversión según metodología de HVG-ACHQ
+Puerto Rico,2025,80.85,ACHQ US=100,ACHQ (valor asignado final),HVG-ACHQ: Puerto Rico y U.S. Virgin Islands,https://humanvarieties.org/2025/03/19/hvgq-ach-puerto-rico-and-u-s-virgin-islands/,Promedio ponderado de NAEP y PISA⋮ ver post
+República Dominicana,1988,92.0,IQ US=100 SD=15,IQ (control saludables),HVGIQ: Dominican Republic,https://humanvarieties.org/2013/04/11/hvgiq-dominican-republic-2/,Muestra pequeña⋮ autores consideran probable sobreestimación
+San Bartolomé (Fr.),2022,99.66,ACHQ FR→US=100,ACHQ (promedio),HVG-ACHQ: French Caribbean and Saint Pierre & Miquelon,https://humanvarieties.org/2025/03/20/hvg-achq-french-caribbean-and-saint-pierre-miquelon/,Tabla 6
+San Cristóbal y Nieves,2020,84.59,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+San Martín (Fr.),2022,85.93,ACHQ FR→US=100,ACHQ (Grado 6 y 10⋮ promedio),HVG-ACHQ: French Caribbean and Saint Pierre & Miquelon,https://humanvarieties.org/2025/03/20/hvg-achq-french-caribbean-and-saint-pierre-miquelon/,Tabla 6
+San Vicente y las Granadinas,2020,81.94,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Santa Lucía,2020,85.89,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3
+Trinidad y Tobago,2020,90.5,ACHQ US=100,Predicción ACHQ desde CXC,HVG-ACHQ: Barbados & Bahamas,https://humanvarieties.org/2025/03/07/hvg-achq-barbados-bahamas/,Tabla 3⋮ columna Predicted ACHQ (2010–2024)

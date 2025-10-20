@@ -1,0 +1,26 @@
+pais,año,iq,tipo,grupo_edad,fuente_nombre,url,nota
+Bahamas,1987,93.0,IQ (Otis),adolescentes (16–18),"HVGIQ: The Bahamas (Johnson, 1988)",https://humanvarieties.org/2013/03/12/hvgiq-the-bahamas/,n≈694; Otis.
+Bahamas,1999,81.0,IQ (WISC),niños (6–16),"HVGIQ: The Bahamas (Tynes‑Jones, 2005)",https://humanvarieties.org/2013/03/12/hvgiq-the-bahamas/,n=29; WISC; muestra pequeña.
+Bahamas,2013,93.0,Promedio HVGIQ,población,HVGIQ: The Bahamas — síntesis,https://humanvarieties.org/2013/03/12/hvgiq-the-bahamas/,Promedio ponderado HVGIQ (Johnson + Tynes‑Jones).
+Cuba,1961,89.0,IQ (Raven SPM),adolescentes (12–20),"HVGIQ: Cuba (Alonso García, publ. 1973)",https://humanvarieties.org/2013/01/31/hvgiq-cuba/,SPM; normas levantadas en 1961; publicado 1973; IQ=89 vs normas UK-1979.
+Cuba,2000,91.0,IQ (Raven SPM),11–68 (mixto),"HVGIQ: Cuba (Valcárcel et al., 2000)",https://humanvarieties.org/2013/01/31/hvgiq-cuba/,Muestra n=589; IQ=91; estudiantes universitarios ≈101; profesionales ≈103.
+Cuba,2013,90.0,Promedio HVGIQ,población,HVGIQ: Cuba — síntesis,https://humanvarieties.org/2013/01/31/hvgiq-cuba/,Promedio ponderado de las 2 estandarizaciones Raven.
+Haití,1977,55.0,IQ (Cattell),niños (8–13),"HVGIQ: Haiti (CNO 1977, Cattell)",https://humanvarieties.org/2013/01/24/hvgiq-haiti/,Informe CNO: Cattell CF = IQ≈55; Raven reporta 75–90 (rango).
+Haití,1981,64.0,IQ (Raven RCPM),niños (~10),"HVGIQ: Haiti (Cotten, 1985)",https://humanvarieties.org/2013/01/24/hvgiq-haiti/,RCPM; ajuste Flynn → IQ≈64 según HVGIQ.
+Haití,2002,72.0,Estimación L&V (2002),población,Lynn & Vanhanen (2002) citado en HVGIQ,https://humanvarieties.org/2013/01/24/hvgiq-haiti/,Estimación por comparación regional (L&V 2002).
+Haití,2006,67.0,Estimación L&V (2006),población,Lynn & Vanhanen (2006) citado en HVGIQ,https://humanvarieties.org/2013/01/24/hvgiq-haiti/,"Estimación por comparación con Jamaica, St. Lucia y Dominica."
+Haití,2013,68.0,Promedio HVGIQ,población,HVGIQ: Haiti — síntesis,https://humanvarieties.org/2013/01/24/hvgiq-haiti/,Promedio ponderado HVGIQ (Cotten + de Ronceray) ≈68.
+Jamaica,1926,68.0,IQ,adultos+niños,"HVGIQ: Jamaica (Davenport & Steggerda, 1929)",https://humanvarieties.org/2013/03/01/hvgiq-jamaica/,Promedio ponderado de 2 tests reportado por HVGIQ (Tabla sobre 1926).
+Jamaica,1959,87.3,IQ,niños (9–12),"HVGIQ: Jamaica (Manley, 1963)",https://humanvarieties.org/2013/03/01/hvgiq-jamaica/,"Moray House IQ; muestra ~1,730 escolares (examen de ingreso)."
+Jamaica,1963,84.0,IQ,niños (11),"HVGIQ: Jamaica (Vernon, 1969)",https://humanvarieties.org/2013/03/01/hvgiq-jamaica/,Promedio de 16 tests; (g‑ponderado ≈79 según HVGIQ).
+Jamaica,2002,72.0,Estimación L&V (2002),población,Lynn & Vanhanen (2002) citado en HVGIQ,https://humanvarieties.org/2013/03/01/hvgiq-jamaica/,L&V 2002 reportan 72 (p.209) según HVGIQ.
+Jamaica,2012,67.0,Estimación L&V (2012),población,Lynn & Vanhanen (2012) citado en HVGIQ,https://humanvarieties.org/2013/03/01/hvgiq-jamaica/,Actualización a 67 en L&V 2012 (según HVGIQ).
+Puerto Rico,1935,86.8,IQ (Army Individual Performance),niños (9–14),"HVGIQ: Puerto Rico (Armstrong et al., 1935)",https://humanvarieties.org/2014/03/13/hvgiq-puerto-rico-2/,NYC escolares; comparación con niños blancos 103.3.
+Puerto Rico,1966,83.7,IQ (Coleman Report),escolares (1–12),"HVGIQ: Puerto Rico (Coleman et al., 1966)",https://humanvarieties.org/2014/03/13/hvgiq-puerto-rico-2/,Muestra nacional; IQ relativo vs blancos.
+Puerto Rico,1995,88.2,IQ abreviado (GSS Wordsum),adultos,HVGIQ: Puerto Rico (GSS 1974–2012),https://humanvarieties.org/2014/03/13/hvgiq-puerto-rico-2/,Media GSS; año medio de test≈1995 según HVGIQ.
+Puerto Rico,2003,87.4,IQ (PPVT),niños (5),"HVGIQ: Puerto Rico (SWEEP, 2003)",https://humanvarieties.org/2014/03/13/hvgiq-puerto-rico-2/,PPVT; cohorte nacida 1998 (n=109).
+República Dominicana,1987,49.0,IQ (WISC),niños (6–13),"HVGIQ: Dominican Republic (Castillo Ariza et al., 1988)",https://humanvarieties.org/2013/04/11/hvgiq-dominican-republic-2/,Hermanos de niños desnutridos; muestra desfavorecida (no representativa).
+República Dominicana,1990,92.0,IQ (WAIS),adultos,"HVGIQ: Dominican Republic (Imperato-McGinley et al., 1991)",https://humanvarieties.org/2013/04/11/hvgiq-dominican-republic-2/,Controles sanos; n=34; WAIS; pequeño tamaño muestral.
+República Dominicana,1997,70.0,AQ (LLECE),3°–4° básico,HVGIQ: Dominican Republic (LLECE 1997),https://humanvarieties.org/2013/04/11/hvgiq-dominican-republic-2/,Achievement Quotient; no IQ puro; escala anclada en UK=100.
+República Dominicana,2006,66.0,AQ (SERCE),primaria,HVGIQ: Dominican Republic (SERCE 2006),https://humanvarieties.org/2013/04/11/hvgiq-dominican-republic-2/,Achievement Quotient (no IQ).
+República Dominicana,2006,82.0,Estimación Lynn (de LLECE),población,HVGIQ: Dominican Republic (método Lynn),https://humanvarieties.org/2013/04/11/hvgiq-dominican-republic-2/,Lynn deriva IQ≈82 desde LLECE (método criticado en HVGIQ).
